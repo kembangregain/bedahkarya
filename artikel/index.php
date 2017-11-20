@@ -1,0 +1,1 @@
+<?php include ("halaman_artikel.php"); ?>
